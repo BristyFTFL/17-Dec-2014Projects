@@ -1,0 +1,6 @@
+D:\Bristy\17-Dec-2014Exam\ItemConsoleApp\ItemConsoleApp\bin\Debug\ItemConsoleApp.exe.config
+D:\Bristy\17-Dec-2014Exam\ItemConsoleApp\ItemConsoleApp\bin\Debug\ItemConsoleApp.exe
+D:\Bristy\17-Dec-2014Exam\ItemConsoleApp\ItemConsoleApp\bin\Debug\ItemConsoleApp.pdb
+D:\Bristy\17-Dec-2014Exam\ItemConsoleApp\ItemConsoleApp\obj\Debug\ItemConsoleApp.csprojResolveAssemblyReference.cache
+D:\Bristy\17-Dec-2014Exam\ItemConsoleApp\ItemConsoleApp\obj\Debug\ItemConsoleApp.exe
+D:\Bristy\17-Dec-2014Exam\ItemConsoleApp\ItemConsoleApp\obj\Debug\ItemConsoleApp.pdb

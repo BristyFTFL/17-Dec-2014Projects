@@ -1,0 +1,9 @@
+D:\Bristy\17-Dec-2014Exam\EmployeeInfoUIApp\EmployeeInfoUIApp\bin\Debug\EmployeeInfoUIApp.exe.config
+D:\Bristy\17-Dec-2014Exam\EmployeeInfoUIApp\EmployeeInfoUIApp\bin\Debug\EmployeeInfoUIApp.exe
+D:\Bristy\17-Dec-2014Exam\EmployeeInfoUIApp\EmployeeInfoUIApp\bin\Debug\EmployeeInfoUIApp.pdb
+D:\Bristy\17-Dec-2014Exam\EmployeeInfoUIApp\EmployeeInfoUIApp\obj\Debug\EmployeeInfoUIApp.csprojResolveAssemblyReference.cache
+D:\Bristy\17-Dec-2014Exam\EmployeeInfoUIApp\EmployeeInfoUIApp\obj\Debug\EmployeeInfoUIApp.Form1.resources
+D:\Bristy\17-Dec-2014Exam\EmployeeInfoUIApp\EmployeeInfoUIApp\obj\Debug\EmployeeInfoUIApp.Properties.Resources.resources
+D:\Bristy\17-Dec-2014Exam\EmployeeInfoUIApp\EmployeeInfoUIApp\obj\Debug\EmployeeInfoUIApp.csproj.GenerateResource.Cache
+D:\Bristy\17-Dec-2014Exam\EmployeeInfoUIApp\EmployeeInfoUIApp\obj\Debug\EmployeeInfoUIApp.exe
+D:\Bristy\17-Dec-2014Exam\EmployeeInfoUIApp\EmployeeInfoUIApp\obj\Debug\EmployeeInfoUIApp.pdb
